@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman';
+    margin: 0;
+    padding: 0;
+    background-color: #79b8dd;
+    color: rgb(247, 247, 126)
+}
+
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #a78ee4;
+    padding: 60px;
+    margin: 75px;
+}
+
+footer {
+    background-color: #ebc3e8;
+    padding: 60px;
+    margin: 75px;
+}
+
+article {
+    background-color: #8388cc;
+    padding: 60px;
+    margin: 75px;
+}
+
+h1,
+h2 {
+    color: #87f5b1;
+}
+
+h1 {
+    border-bottom: 5px solid #a2e99c;
+    padding-bottom: 50px;
+}
